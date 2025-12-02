@@ -39,12 +39,13 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение:
-[![FastPic.Org](https://i126.fastpic.org/thumb/2025/1202/f6/1179efa7aa13ecf18061bc17cc04c4f6.jpeg)](https://fastpic.org/view/126/2025/1202/1179efa7aa13ecf18061bc17cc04c4f6.jpg.html)
-[![FastPic.Org](https://i126.fastpic.org/thumb/2025/1202/54/c0354095632016285a85240763503054.jpeg)](https://fastpic.org/view/126/2025/1202/c0354095632016285a85240763503054.jpg.html)
-[![FastPic.Org](https://i126.fastpic.org/thumb/2025/1202/9a/6503170e615cf87836bd9269c9a1689a.jpeg)](https://fastpic.org/view/126/2025/1202/6503170e615cf87836bd9269c9a1689a.jpg.html)
-[![FastPic.Org](https://i126.fastpic.org/thumb/2025/1202/03/1102dc24ed01fc50f964ec5666d89f03.jpeg)](https://fastpic.org/view/126/2025/1202/1102dc24ed01fc50f964ec5666d89f03.jpg.html)
+![Название скриншота 1](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/1.jpg)
+![Название скриншота 2](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/2.jpg)
+![Название скриншота 3](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/3.jpg)
+![Название скриншота 4](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/4.jpg)
 После перенастройки репозитория под SSH ключ удалось выполнить коммит в origin репозиторий.
-[![FastPic.Org](https://i126.fastpic.org/thumb/2025/1202/e8/4b3238d602865e3f9ec3fb5e6d33eae8.jpeg)](https://fastpic.org/view/126/2025/1202/4b3238d602865e3f9ec3fb5e6d33eae8.jpg.html)
+
+![Название скриншота 5](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/5.jpg)
 
 ---
 
@@ -58,10 +59,8 @@
 
 ### Решение:
 
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Название скриншота 6](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/6.jpg)
+![Название скриншота 7](https://github.com/Pavel24071993/Pavel24071993-HomeWork_8-01/blob/main/img/7.jpg)
 
 
 ---
